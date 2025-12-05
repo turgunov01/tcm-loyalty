@@ -6,7 +6,7 @@ import { config as loadEnv } from 'dotenv'
 
 loadEnv()
 
-const BOT_TOKEN = 8403271747:AAGnZ8V0_pjeTFzad2ZcY7Kdug1QTUk2SNE
+const BOT_TOKEN = "8403271747:AAGnZ8V0_pjeTFzad2ZcY7Kdug1QTUk2SNE"
 const PUBLIC_HOST = process.env.PUBLIC_HOST || 'http://localhost:3000'
 const POINTS_PER_SCAN = 10
 const DAILY_POINTS = 10
