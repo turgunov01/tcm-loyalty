@@ -1,0 +1,37 @@
+[
+  {
+    "employeeId": "EMP001",
+    "firstName": "Aziz",
+    "lastName": "Yuldashev",
+    "role": "Security",
+    "age": 27
+  },
+  {
+    "employeeId": "EMP002",
+    "firstName": "Dilshod",
+    "lastName": "Karimov",
+    "role": "Cashier",
+    "age": 24
+  },
+  {
+    "employeeId": "EMP003",
+    "firstName": "Malika",
+    "lastName": "Tursunova",
+    "role": "Sales Assistant",
+    "age": 29
+  },
+  {
+    "employeeId": "EMP004",
+    "firstName": "Jasur",
+    "lastName": "Akbarov",
+    "role": "Manager",
+    "age": 33
+  },
+  {
+    "employeeId": "EMP005",
+    "firstName": "Nilufar",
+    "lastName": "Saidova",
+    "role": "Customer Support",
+    "age": 26
+  }
+]
